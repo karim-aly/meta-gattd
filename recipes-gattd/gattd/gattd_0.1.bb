@@ -1,9 +1,9 @@
 DESCRIPTION = "Python BLE GATT server"
-HOMEPAGE = "https://github.com/fvasquez/gattd"
+HOMEPAGE = "https://github.com/karim-aly/gattd"
 LICENSE = "GPLv2"
 LIC_FILES_CHKSUM = "file://LICENSE;md5=c53d04442d1a229d62549856b7ec456a"
 
-SRC_URI = "https://github.com/fvasquez/gattd/archive/v${PV}.tar.gz"
+SRC_URI = "https://github.com/karim-aly/gattd/archive/v${PV}.tar.gz"
 SRC_URI[md5sum] = "2a5ccd81395ba01534006b815b509c60"
 SRC_URI[sha1sum] = "7a4b5fac479e2fade925c4baf53b3e643e320182"
 SRC_URI[sha256sum] = "b6ff7bbe95517d0213ce376e7e72a92917b1645ccd995cc4e514c3b3c1a9bc39"
